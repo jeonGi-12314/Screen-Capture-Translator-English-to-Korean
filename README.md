@@ -1,6 +1,7 @@
 # Screen Capture Translator(English to Korean)
 
 실시간 번역기 (Screen Capture Translator)
+
 https://github.com/jeonGi-12314/Screen-Capture-Translator-English-to-Korean/releases/download/v1.0.0/Translator.zip
 
 영어 화면의 텍스트를 드래그해서 즉시 한국어로 번역해주는 Windows 도구
