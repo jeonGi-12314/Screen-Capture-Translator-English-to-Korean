@@ -1,6 +1,6 @@
 # Screen Capture Translator(English to Korean)
 
-실시간 번역기 (Screen Capture Translator)
+화면 캡처 번역기 (Screen Capture Translator)
 
 https://github.com/jeonGi-12314/Screen-Capture-Translator-English-to-Korean/releases/download/v1.0.0/Translator.zip
 
